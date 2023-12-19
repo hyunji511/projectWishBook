@@ -21,10 +21,10 @@
 
 ### 개발 환경
 - 'java 17'
-**IDE** : STS 4.4.18
-**Framework** : SpringBoot 2. 3 .0
-**Database*** : OracleDb
-**ORM** : Mybatis
+- **IDE** : STS 4.4.18
+- **Framework** : SpringBoot 2. 3 .0
+- **Database*** : OracleDb
+- **ORM** : Mybatis
 <br>
 <br>
 
