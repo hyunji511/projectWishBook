@@ -31,4 +31,7 @@
 ### Notion
 https://www.notion.so/Wish-Book-9f89664ab9c74fed8fceb0afc7091a80
 
+### 시연 영상
+https://drive.google.com/file/d/1uKDQ4ypygDPU8zldMOLYMhc33QKL_U9C/view?usp=sharing
+
   
