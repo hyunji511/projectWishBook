@@ -25,6 +25,10 @@
 **Framework** : SpringBoot 2. 3 .0
 **Database*** : OracleDb
 **ORM** : Mybatis
+<br>
+<br>
 
+### Notion
+https://www.notion.so/Wish-Book-9f89664ab9c74fed8fceb0afc7091a80
 
   
